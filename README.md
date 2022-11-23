@@ -4,7 +4,4 @@
 - 📫 How to reach me ...
                   -Discord = Ashfi#3588
 
-<!---
-Ashfinn/Ashfinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<figure><embed src="https://wakatime.com/share/@a8d306a6-940e-433f-883d-ab10d735e372/a61cda86-efd1-4aab-b649-a7fa7630180b.svg"></embed></figure>
