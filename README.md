@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashfin
 - 👀 I’m interested in ...Coding and Anime...
-- 🌱 I’m currently learning ...JS
+- 🌱 I’m currently learning ...Python
 - 📫 How to reach me ...
                   -Discord = Ashfi#3588
     
