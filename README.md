@@ -1,6 +1,6 @@
 -> Hi, I’m Ashfin
 
--> Currently studying Mamthematics in University of Chittagong
+-> Currently studying Mathematics in University
 
 -> I’m currently learning ...Python
 
