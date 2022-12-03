@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ashfin
-- 👀 I’m interested in ...Coding and Anime...
-- 🌱 I’m currently learning ...Python
-- 📫 How to reach me ...
+-> Hi, I’m Ashfin
+-> Currently studying Mamthematics in University of Chittagong
+-> I’m currently learning ...Python
+-> Here's how to reach me ...
                   -Discord = Ashfi#3588
     
