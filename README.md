@@ -9,9 +9,13 @@
 
 ## 🌐 Socials
 
-- 🔗 **Discord** - [_Ashfi#3588_](https://discord.bio/yakiyo)
+- 🔗 **Discord** - **Ashfi#3588**
 
 - 🍿 **Anilist** - [_Ashfin_](https://anilist.co/user/Ashfin)
+
+- 🎵 **Last.FM** - [ Ashfin ](https://www.last.fm/user/Ashfin)
+
+- 🎶 **Spotify** - [ Ashfin ](https://open.spotify.com/user/ashfinnn?si=08655753ac3d4f9c)
 
 - 🌐 **Codewars** - [_Ashfin_](https://www.codewars.com/users/Ashfin) <img src="https://www.codewars.com/users/Ashfin/badges/micro" alt="codewars-badge" align="right">
  
