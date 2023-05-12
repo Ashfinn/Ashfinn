@@ -1,8 +1,6 @@
 # Hi There,
-- I’m Ashfin<br><br>
-- I'm a 20 year old self taught developer? coder? ??<br><br>
-- Currently trying to tame the snake called Python...
-
+**`- I’m Ashfin<br><br>`**
+**`- I'm a 20 year old self taught developer? coder? ??<br><br>`**
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
