@@ -2,7 +2,7 @@
 
 **`I'm a 20 year old self taught developer?`**
 
-I'm an university student studying Mathematics and an aspiring Computer Scientist creator pursuing my career in the technology world one step at a time.
+I am a university student studying Mathematics and an aspiring computer scientist pursuing my career in the technology world, one step at a time
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
