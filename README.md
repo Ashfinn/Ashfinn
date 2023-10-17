@@ -1,7 +1,5 @@
 # Ashfin
 
-**`I'm a 20 year old self taught developer?`**
-
 I am a university student studying Mathematics and an aspiring computer scientist pursuing my career in the technology world, one step at a time
 
 ### 🧰 Languages and Tools
