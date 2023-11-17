@@ -60,27 +60,3 @@
 ---
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=Ashfinn&icon=2&color=5)](https://visitcount.itsvg.in)
-
-<h2></h2>
-
-<h2></h2>
-
-<div align="center">
-  <h2 align="center">✉️ Contact</h2>
-  <a href="https://www.facebook.com/Shawal.b/" target="_blank">
-    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/112419917/283894278-156589f8-c461-413d-806e-485cc8ce2c8d.png" width="48px" alt="Facebook" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/Ashfinnnn" target="_blank">
-    <img src="https://media.discordapp.net/attachments/775678175799279619/1175143260558213181/image.png?ex=656a2872&is=6557b372&hm=0bf353603b8471ed6ae02a51b966f9d53ea7840b70593ec922904b14655069ee" width="48px" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/ashfin_shawal/" target="_blank">
-    <img src="https://media.discordapp.net/attachments/774245689458425876/1175141721760342078/image.png?ex=656a2703&is=6557b203&hm=9349bbc27e208f8e8a2f6abeb894c4cf919c25fe07b538e62a8296e7850e86ac" width="48px" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/obidur-rahman-shawal" target="_blank">
-    <img src="https://media.discordapp.net/attachments/775678175799279619/1175143543354957904/image.png?ex=656a28b5&is=6557b3b5&hm=608938488ec7d5eafef5bbfbd8024472061b445a43feef82d00517c9262c3eca" width="48px" alt="LinkedIn" />
-  </a>
-  &nbsp;
-</div>
