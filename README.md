@@ -46,17 +46,18 @@
 - ⚔️ **Codewars:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [_Ashfin_](https://www.codewars.com/users/Ashfin) <img src="https://www.codewars.com/users/Mrh-Romit/badges/micro" alt="codewars-badge" align="right"></img>
 
 <br>
- 
+
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashfinn&theme=radical&hide_border=true)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfinn&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Ashfinn&icon=2&color=5)](https://visitcount.itsvg.in)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashfinn&theme=radical&hide_border=true" width="45%" alt="GitHub Streak" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
+
+</div>
+<img src="https://visitcount.itsvg.in/api?id=Ashfinn&icon=2&color=5" alt="Profile Views" />
