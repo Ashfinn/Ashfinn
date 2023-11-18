@@ -53,7 +53,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfinn&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfinn&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" width="35.5%" alt="Top Languages" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashfinn&theme=radical&hide_border=true" width="45%" alt="GitHub Streak" />
 
