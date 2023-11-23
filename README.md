@@ -49,15 +49,12 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  alt="Top Languages" >
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="35.5%" alt="Top Languages" >
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashfinn&theme=radical&hide_border=true" width="45%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashfinn&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
 
-</div>
 <img src="https://visitcount.itsvg.in/api?id=Ashfinn&icon=2&color=5" alt="Profile Views" />
