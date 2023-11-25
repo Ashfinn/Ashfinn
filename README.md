@@ -43,7 +43,7 @@
   
 - 🎧 **Spotify:** &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ashfin](https://open.spotify.com/user/ashfinnn?si=08655753ac3d4f9c)
   
-- ⚔️ **Codewars:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [_Ashfin_](https://www.codewars.com/users/Ashfin) <img src="https://www.codewars.com/users/Mrh-Romit/badges/micro" alt="codewars-badge" align="right"></img>
+- ⚔️ **Codewars:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [_Ashfin_](https://www.codewars.com/users/Ashfin) <img src="https://www.codewars.com/users/Ashfinn/badges/micro" alt="codewars-badge" align="right"></img>
 
 <br>
 
