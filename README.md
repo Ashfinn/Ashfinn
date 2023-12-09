@@ -57,4 +57,4 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
 
-<img src="https://visitcount.itsvg.in/api?id=Ashfinn&icon=2&color=5" alt="Profile Views" />
+<img src="https://visitcount.itsvg.in/api?id=Ashfinn&label=Profile%20Views&color=10&pretty=true" />
