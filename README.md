@@ -33,7 +33,14 @@
 - ⚔️ **Codewars:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [_Ashfin_](https://www.codewars.com/users/Ashfin) <img src="https://www.codewars.com/users/Ashfin/badges/micro" alt="codewars-badge" align="right"></img>
 
 <br>
+<b>My GitHub Stats</b>
 
+![Ashfin's Stats](https://github-readme-stats.vercel.app/api?username=ashfinn&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+
+![Ashfin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashfinn&theme=algolia&hide_border=true)
+
+
+![Ashfin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfinn&theme=algolia&show_icons=true&hide_border=true&layout=pie)
 # 📊 GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
