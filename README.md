@@ -33,22 +33,9 @@
 - ⚔️ **Codewars:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [_Ashfin_](https://www.codewars.com/users/Ashfin) <img src="https://www.codewars.com/users/Ashfin/badges/micro" alt="codewars-badge" align="right"></img>
 
 <br>
-<b>My GitHub Stats</b>
+
+### My GitHub Stats
 
 ![Ashfin's Stats](https://github-readme-stats.vercel.app/api?username=ashfinn&theme=algolia&show_icons=true&hide_border=true&count_private=true)
-
 ![Ashfin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashfinn&theme=algolia&hide_border=true)
-
-
 ![Ashfin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfinn&theme=algolia&show_icons=true&hide_border=true&layout=pie)
-# 📊 GitHub Stats:
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashfinn&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=Mathematica-Assignment"  alt="Top Languages" >
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashfinn&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quotes" />
-
-<img src="https://visitcount.itsvg.in/api?id=Ashfinn&label=Profile%20Views&color=10&pretty=true" />
