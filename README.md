@@ -35,8 +35,13 @@
 
 ### My GitHub Stats
 
-![Ashfin's Stats](https://github-readme-stats.vercel.app/api?username=ashfinn&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+[![Ashfin's GitHub | Stats](https://stats.quine.sh/Ashfin/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ashfin)
 
-![Ashfin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashfinn&theme=algolia&hide_border=true)
-
+<!-- ![Ashfin's Stats](https://github-readme-stats.vercel.app/api?username=ashfinn&theme=algolia&show_icons=true&hide_border=true&count_private=true) 
 ![Ashfin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfinn&theme=algolia&show_icons=true&hide_border=true&layout=pie)
+![Ashfin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashfinn&theme=algolia&hide_border=true)
+-->
+
+[![Ashfin's GitHub | Languages Over Time](https://stats.quine.sh/Ashfin/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ashfin)
+
+
