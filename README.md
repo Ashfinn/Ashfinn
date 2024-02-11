@@ -24,15 +24,6 @@
   
 </p>
 
-<br>
-
-### Socials
-
-- 💬 **Discord:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `Ashfi`
-- ⚔️ **Codewars:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [_Ashfin_](https://www.codewars.com/users/Ashfin) <img src="https://www.codewars.com/users/Ashfin/badges/micro" alt="codewars-badge" align="right"></img>
-
-<br>
-
 ### My GitHub Stats
 
 [![Ashfin's GitHub | Stats](https://stats.quine.sh/Ashfin/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ashfin)
