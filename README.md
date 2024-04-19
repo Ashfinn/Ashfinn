@@ -33,6 +33,4 @@
 ![Ashfin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashfinn&theme=algolia&hide_border=true)
 -->
 
-[![Ashfin's GitHub | Languages Over Time](https://stats.quine.sh/Ashfin/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ashfin)
-
 
