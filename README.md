@@ -6,7 +6,7 @@
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <br>
-<p align="center">I'm a university student passionate about Mathematics and Computer Science, taking steps into the world of technology.</p>
+<p align="center">I'm a student passionate about Mathematics and Computer Science, taking steps into the world of technology.</p>
 <br>
 
 ### Skills
