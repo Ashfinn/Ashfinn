@@ -9,6 +9,14 @@
 <p align="center">I'm a student passionate about Mathematics and Computer Science, taking steps into the world of technology.</p>
 <br>
 
+### My GitHub Stats
+![Stats Overview](https://raw.githubusercontent.com/Ashfinn/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Ashfinn/github-stats-transparent/output/generated/languages.svg)
+
+<!--
+[![Ashfin's GitHub | Stats](https://stats.quine.sh/Ashfin/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ashfin)
+![Ashfin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfinn&theme=algolia&show_icons=true&hide_border=true&layout=pie)  
+
 ### Skills
 
 <p align="left">
@@ -23,17 +31,4 @@
   <img alt="Mathematica" width="40px" src="https://www.wolfram.com/common/framework/img/spikey.en.png" />
   
 </p>
-
-### My GitHub Stats
-
-[![Ashfin's GitHub | Stats](https://stats.quine.sh/Ashfin/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ashfin)
-![Ashfin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfinn&theme=algolia&show_icons=true&hide_border=true&layout=pie)  
-
-
-<!--
-![Ashfin's Stats](https://github-readme-stats.vercel.app/api?username=ashfinn&theme=algolia&show_icons=true&hide_border=true&count_private=true) 
-![Ashfin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashfinn&theme=algolia&hide_border=true)
--->
-
-
-
+--> 
