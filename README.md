@@ -13,6 +13,8 @@
 ![Stats Overview](https://raw.githubusercontent.com/Ashfinn/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Ashfinn/github-stats-transparent/output/generated/languages.svg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfinnt&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ashfinn" /> </p>
+
 <!--
 [![Ashfin's GitHub | Stats](https://stats.quine.sh/Ashfin/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ashfin)
 ![Ashfin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfinn&theme=algolia&show_icons=true&hide_border=true&layout=pie)  
