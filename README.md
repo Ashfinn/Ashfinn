@@ -10,7 +10,7 @@
 <br>
 
 ### My GitHub Stats
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; flex-wrap: nowrap;">
 <img src = "https://raw.githubusercontent.com/Ashfinn/github-stats-transparent/output/generated/overview.svg">
 <img src = "https://raw.githubusercontent.com/Ashfinn/github-stats-transparent/output/generated/languages.svg">
 </div>
