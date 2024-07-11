@@ -9,7 +9,6 @@
 <p align="center">I'm a student passionate about Mathematics and Computer Science, taking steps into the world of technology.</p>
 <br>
 
-### My GitHub Stats
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
 <img src = "https://raw.githubusercontent.com/Ashfinn/github-stats-transparent/output/generated/overview.svg" style="max-width: 40%; height: auto;">
 <!--
