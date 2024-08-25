@@ -9,8 +9,8 @@
 <br>
 <p>👨🏻‍💻 I’m a second-year bachelor's student studying Mathematics at the University of Chittagong.</p>
 <p>🔬 My interests are in Machine Learning and Quantum Computing!</p>
-<p>📚 I am also interested in assisting others on their path in the world of Machine Learning and academia.</p>
-<p>📽️ I have a YouTube channel and Hashnode Blog where I share educational content on Machine Learning and all things Mathematics.</p>
+<p>📚 I am also interested in assisting others on their path in Tech.</p>
+<p>📽️ I have a YouTube channel and Hashnode Blog where I share educational content on Computer Science and all things Mathematics.</p>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
 <img src = "https://raw.githubusercontent.com/Ashfinn/github-stats-transparent/output/generated/overview.svg" style="max-width: 40%; height: auto;">
