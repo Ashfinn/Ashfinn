@@ -5,7 +5,7 @@
 <p/>
 
 <p>👨🏻‍💻 I’m a third-year bachelor's student studying Mathematics at the University of Chittagong.</p>
-<p>🔬 My interests are in Machine Learning and Game Development!</p>
+<p>🔬 My interests are in Machine Learning and Quantum Computing!</p>
 <p>📚 I am also interested in assisting others on their path in Tech.</p>
 <p>📽️ I have a YouTube channel and Hashnode Blog where I share educational content on Computer Science and all things Mathematics.</p>
 
