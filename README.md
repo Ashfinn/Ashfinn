@@ -9,8 +9,8 @@ class AboutMe:
         self.name = "Obidur Rahman"
         self.username = "ashfinn"
         self.contacts = {
-            "Email" = "obidur.shawal@gmail.com"
-            "discord" = "ashfi"
+            "Email": "obidur.shawal@gmail.com",
+            "discord": "ashfi"
         }
         self.aliases = [
             "Shawal",
@@ -18,10 +18,9 @@ class AboutMe:
         ]
         self.location = "Chittagong, Bangladesh"
         self.os = "Arch Linux"
+        self.education = "Undergraduate in Pure Mathematics at the University of Chittagong"
+        self.interests = ["Machine Learning", "Deep Learning", "AI"]
 ```
-
-<p>👨🏻‍💻 I’m an undergraduate Pure Mathematics student studying at the University of Chittagong.</p>
-<p>🔬 My interests are in Machine Learning, Deep Learning, and AI.</p>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
 <img src = "https://raw.githubusercontent.com/Ashfinn/github-stats-transparent/output/generated/overview.svg" style="max-width: 40%; height: auto;">
