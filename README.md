@@ -20,10 +20,8 @@ class AboutMe:
         self.os = "Arch Linux"
 ```
 
-<p>👨🏻‍💻 I’m a bachelor's student studying Pure Mathematics at the University of Chittagong.</p>
-<p>🔬 My interests are in Machine Learning, Deep Learning, and Next.js web development!</p>
-<p>📚 I am also interested in assisting others on their path in Tech.</p>
-<p>📽️ I have a YouTube channel and Hashnode Blog where I share educational content on all things CS.</p>
+<p>👨🏻‍💻 I’m an undergraduate Pure Mathematics student studying at the University of Chittagong.</p>
+<p>🔬 My interests are in Machine Learning, Deep Learning, and AI.</p>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap;">
 <img src = "https://raw.githubusercontent.com/Ashfinn/github-stats-transparent/output/generated/overview.svg" style="max-width: 40%; height: auto;">
