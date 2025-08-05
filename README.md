@@ -17,7 +17,6 @@ class AboutMe:
             "Ashfin"
         ]
         self.location = "Chittagong, Bangladesh"
-        self.os = "Arch Linux"
         self.education = "Undergraduate in Pure Mathematics at the University of Chittagong"
         self.interests = ["Machine Learning", "Deep Learning", "AI"]
 ```
